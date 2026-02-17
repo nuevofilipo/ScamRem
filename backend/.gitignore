@@ -1,0 +1,45 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Google OAuth credentials
+client_secret.json
+client_secret*.json
+
+# Firebase service account
+serviceAccountKey.json
+*serviceAccount*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc secrets / credentials
+*.pem
+*.key
+*.p12
+*.pfx
+token.json
+credentials.json

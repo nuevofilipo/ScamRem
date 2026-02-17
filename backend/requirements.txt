@@ -1,0 +1,11 @@
+numpy==1.24.3
+firebase_admin==6.5.0
+Flask==2.3.2
+Flask_Cors==3.0.10
+google_api_python_client==2.161.0
+google_auth_oauthlib==1.2.0
+openai==1.63.0
+pandas==1.5.3
+protobuf==5.29.3
+python-dotenv==1.0.1
+requests==2.31.0
